@@ -10,4 +10,5 @@ import Foundation
 
 struct Titles: Decodable {
     let title: String
+    let id: Int
 }
